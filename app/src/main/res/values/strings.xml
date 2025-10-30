@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Диктофон</string>
+
+    <string name="action_start">Старт</string>
+    <string name="action_stop">Стоп</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="timer_zero">00:00</string>
+    <string name="timer_format">%1$02d:%2$02d</string>
+
+    <string name="prefs_cat_recording">Запис</string>
+    <string name="prefs_max_minutes">Макс. тривалість запису (хв)</string>
+    <string name="prefs_pick_dir">Папка збереження</string>
+    <string name="prefs_pick_dir_summary">Обрати директорію через SAF</string>
+
+    <string name="notif_title">Йде запис</string>
+    <string name="notif_subtitle">Натисніть, щоб відкрити</string>
+</resources>
